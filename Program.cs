@@ -55,13 +55,9 @@ namespace Program
 
         public void Count(T name)
         {
-            int b = 0;
-            foreach(T a in items)
+            for (int b = 0;  b < count; )
             {
-                if (a == name)
-                {
-                   
-                }
+                items[n].
             }
         }
 

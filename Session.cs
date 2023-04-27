@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace kursovaya
 {
-    internal class Session : Movie
+    internal class Session : Film
     {
         public Session(string name, int durMin, int hall, string showTime) : base(name, durMin)
         {
